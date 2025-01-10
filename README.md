@@ -23,5 +23,6 @@ This repo contains files you could use to deploy github pages. Fork the Repo and
 
 More INFO: https://docs.github.com/en/pages/quickstart
 **If CHANGING the name does not work**
+
 Change Step 1 with creating the repo instead of renaming
 And then paste the files into the new repo then continue to step 2
